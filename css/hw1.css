@@ -10,6 +10,10 @@ h1 {
   color: #ffffff;
   text-transform: uppercase;
 }
+body
+{
+  background-image: linear-gradient(to left ,#FDD835,#9E9E9E);
+}
 
 nav a {
   vertical-align: center;
@@ -101,6 +105,4 @@ td {
   border: #ffffff;
   background-color: rgba(173, 216, 230, 0.4);
 }
-h2 {
-  font-family: serif;
-}
+
